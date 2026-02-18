@@ -3,7 +3,7 @@ GESTURE CONTROLLED ROBOT CAR
 This project implements a wireless gesture-controlled robotic car using an Arduino Nano, ADXL335 accelerometer, and nRF24L01 RF communication modules.
 The system enables intuitive, real-time control of a robotic vehicle through hand gestures, eliminating the need for traditional remote controllers. It demonstrates an accessible and adaptive human–machine interaction model suitable for robotics education, automation systems, and defense-oriented applications
 
-Problem Statement
+Problem Statement: 
 Traditional robotic control systems often rely on joystick-based or button-based interfaces, which may lack intuitiveness and adaptability. Gesture-controlled robotics systems remain limited in accessibility and widespread implementation.
 This project addresses these challenges by designing a compact and adaptive system that interprets hand gestures using accelerometer data and transmits commands wirelessly to control robot movement in real time.
 
